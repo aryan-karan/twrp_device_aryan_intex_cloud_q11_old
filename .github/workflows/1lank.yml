@@ -34,7 +34,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-  "test name":
+  gfgvbvhhh:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
